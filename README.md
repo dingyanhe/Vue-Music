@@ -6,7 +6,7 @@
 ### 安装与运行
 
 ```
-git clone https://github.com/dingyanhe/myVueMusic.git
+git clone git@github.com:dingyanhe/Vue-Music.git
 
 cd myVueMusic
 
