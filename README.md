@@ -1,5 +1,7 @@
 # vue-music
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dingyanhe/Vue-Music.svg)](https://greenkeeper.io/)
+
 > Vue.js ——音乐 App
 
 
